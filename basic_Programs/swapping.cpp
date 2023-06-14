@@ -30,8 +30,5 @@ int main()
 
     swapping s;
     s.display();
-
-        
-
     return 0;
 }
